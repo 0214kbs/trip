@@ -1,0 +1,6 @@
+[submodule "EnjoyTrip_front"]
+	path = EnjoyTrip_front
+	url = https://github.com/0214kbs/EnjoyTrip_front.git
+[submodule "EnjoyTrip_back"]
+	path = EnjoyTrip_back
+	url = https://github.com/0214kbs/EnjoyTrip_back.git
